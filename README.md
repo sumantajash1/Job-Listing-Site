@@ -12,6 +12,7 @@ JobBridge is a job listing platform where employers can post job openings, and j
 ## Project Status
 
 ### Backend
+kuchbhi
 
 The backend is **fully functional** and developed following **clean code practices** and **modular architecture**. It includes:
 
